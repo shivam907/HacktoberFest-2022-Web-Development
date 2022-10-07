@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Bitwise operators in javascript
-<br>
 ### Problem Statement
 Write code to use bitwise operators in javascript .
 
