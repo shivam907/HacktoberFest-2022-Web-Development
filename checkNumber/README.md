@@ -1,5 +1,5 @@
 # Hacktoberfest 2022
-## checkNumber in javascript
+## CheckNumber in javascript
 <br>
 ### Problem Statement
 Write code check numbers in  HTML and javascript.
@@ -16,6 +16,7 @@ If all test cases pass, your solution will be merged with the main branch. If yo
 
 ## Maintainer
 - [Harsh](https://www.linkedin.com/in/harshverma036/)
+- [Sanjeet](https://www.github.com/Sanjeetk22)
 - [Chirag](https://github.com/ChiragGupta2808)
 - [Shailesh](https://github.com/ShaileshKumar007)
 
