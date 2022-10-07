@@ -1,5 +1,5 @@
 # Hacktoberfest 2022
-## iframe in HTML
+## Iframe in HTML
 <br>
 ### Problem Statement
 Write code to embbed website link or video link in HTML.
@@ -16,6 +16,7 @@ If all test cases pass, your solution will be merged with the main branch. If yo
 
 ## Maintainer
 - [Harsh](https://www.linkedin.com/in/harshverma036/)
+- [Sanjeet](https://www.github.com/Sanjeetk22)
 - [Chirag](https://github.com/ChiragGupta2808)
 - [Shailesh](https://github.com/ShaileshKumar007)
 
