@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Geolocation in HTML and javascript
-<br>
 ### Problem Statement
 Write code to show geolocation HTML and javascript.
 
