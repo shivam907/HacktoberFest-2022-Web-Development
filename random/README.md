@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Random in javascript
-<br>
 ### Problem Statement
 Write code to generate a random number in Javascript.
 
