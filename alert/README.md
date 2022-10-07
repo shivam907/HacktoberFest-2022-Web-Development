@@ -1,6 +1,6 @@
 # Hacktoberfest 2022
 ## Alert in javascript
-<br>
+
 ### Problem Statement
 Write code to alert a message in html and javascript.
 
