@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Rotate in HTML and javascript
-<br>
 ### Problem Statement
 Write code to rotate elemets in HTML and javascript.
 
