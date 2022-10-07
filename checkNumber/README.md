@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## CheckNumber in javascript
-<br>
 ### Problem Statement
 Write code check numbers in  HTML and javascript.
 
