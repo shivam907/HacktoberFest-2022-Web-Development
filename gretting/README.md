@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ##  Greeting in HTML and javascript
-<br>
 ### Problem Statement
 Write code to show greetings in HTML and javascript.
 
