@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Formating in HTML
-<br>
 ### Problem Statement
 Write code to format the tags HTML.
 
