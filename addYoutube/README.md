@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Youtube-Link Embbed
-<br>
 ### Problem Statement
 Write code to embbed Youtube link in HTML.
 
