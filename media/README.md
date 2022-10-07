@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Media in HTML
-<br>
 ### Problem Statement
 Write code to embbed media in HTML.
 
