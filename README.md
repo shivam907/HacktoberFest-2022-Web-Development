@@ -54,6 +54,7 @@ LinkedIn: LinkedIn Profile Link (Optional) <br>
 What have you included in this PR : Describe the things you had added up in this PR <br>
 
 **Note** : One should follow this PR template while appending your details of your contribution
+**Maximum 2 valid PR's will be accepted per HTML file.**
 
 
 <h2>👨‍💻Workflow:</h2>
