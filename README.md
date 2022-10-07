@@ -53,7 +53,7 @@ Name : Full Name <br>
 LinkedIn: LinkedIn Profile Link (Optional) <br>
 What have you included in this PR : Describe the things you had added up in this PR <br>
 
-**Note** : One should follow this PR template while appending your details of your contribution
+**Note** : One should follow this PR template while appending your details of your contribution <br>
 **Maximum 2 valid PR's will be accepted per HTML file.**
 
 
