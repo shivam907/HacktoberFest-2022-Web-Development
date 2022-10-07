@@ -50,7 +50,7 @@ If this project helped you start with your open source journey or got you involv
 Provide your information in this following format while creating your PR PR Title : Short script of what PR is
 
 Name : Full Name <br>
-LinkedIn: LinkedIn Profile Link <br>
+LinkedIn: LinkedIn Profile Link (Optional) <br>
 What have you included in this PR : Describe the things you had added up in this PR <br>
 
 **Note** : One should follow this PR template while appending your details of your contribution
