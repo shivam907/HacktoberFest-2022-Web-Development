@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## VowelsCount in a string
-<br>
 ### Problem Statement
 Write code to count vowels in a string in javascript.
 
