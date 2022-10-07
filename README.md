@@ -53,7 +53,8 @@ Name : Full Name <br>
 LinkedIn: LinkedIn Profile Link (Optional) <br>
 What have you included in this PR : Describe the things you had added up in this PR <br>
 
-**Note** : One should follow this PR template while appending your details of your contribution
+**Note** : One should follow this PR template while appending your details of your contribution <br>
+**Maximum 2 valid PR's will be accepted per HTML file.**
 
 
 <h2>👨‍💻Workflow:</h2>
@@ -70,7 +71,6 @@ What have you included in this PR : Describe the things you had added up in this
 
 > console.log("Start contributing for Hacktoberfest-2022")
 * Do not update the **[README.md](https://github.com/GDSC-CEC/HacktoberFest-2022-Web-Development/blob/master/README.md).**
-<h2>🔖Projects Overview</h2>
 
 <h2>👍OpenSource Program</h2>
 
@@ -86,3 +86,9 @@ This project is a part of HacktoberFest 2022
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
+## License
+
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)

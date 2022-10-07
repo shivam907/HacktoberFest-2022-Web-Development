@@ -1,7 +1,7 @@
 # Hacktoberfest 2022
-## Youtube-Link Embbed
+## Sidebar in HTML and sidebar
 ### Problem Statement
-Write code to embbed Youtube link in HTML.
+Write code to show sidebar in HTML and javascript.
 
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
@@ -14,7 +14,7 @@ If all test cases pass, your solution will be merged with the main branch. If yo
 - [Git](https://git-scm.com/)
 
 ## Maintainer
-- [Harsh](https://www.github.com/harshverma036/)
+- [Harsh](https://www.linkedin.com/in/harshverma036/)
 - [Sanjeet](https://www.github.com/Sanjeetk22)
 - [Chirag](https://github.com/ChiragGupta2808)
 - [Shailesh](https://github.com/ShaileshKumar007)
