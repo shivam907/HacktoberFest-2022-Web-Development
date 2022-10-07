@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Transition in HTML and javascript
-<br>
 ### Problem Statement
 Write code to show transition of objects in  HTML and javascript.
 
