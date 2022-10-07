@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Table in HTML
-<br>
 ### Problem Statement
 Write code to create table in HTML.
 
