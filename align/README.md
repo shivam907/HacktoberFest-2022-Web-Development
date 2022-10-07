@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## HTML align
-<br>
 ### Problem Statement
 Write code to align text in HTML.
 
