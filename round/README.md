@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Round in HTML and javascript
-<br>
 ### Problem Statement
 Write code to rounoff the values in HTML and javascript.
 
