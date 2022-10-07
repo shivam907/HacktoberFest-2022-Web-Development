@@ -15,7 +15,8 @@ If all test cases pass, your solution will be merged with the main branch. If yo
 - [Git](https://git-scm.com/)
 
 ## Maintainer
-- [Harsh](https://www.linkedin.com/in/harshverma036/)
+- [Harsh](https://www.github.com/harshverma036/)
+- [Sanjeet](https://www.github.com/Sanjeetk22)
 - [Chirag](https://github.com/ChiragGupta2808)
 - [Shailesh](https://github.com/ShaileshKumar007)
 
