@@ -70,7 +70,6 @@ What have you included in this PR : Describe the things you had added up in this
 
 > console.log("Start contributing for Hacktoberfest-2022")
 * Do not update the **[README.md](https://github.com/GDSC-CEC/HacktoberFest-2022-Web-Development/blob/master/README.md).**
-<h2>🔖Projects Overview</h2>
 
 <h2>👍OpenSource Program</h2>
 
