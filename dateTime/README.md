@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Datetime an javascript
-<br>
 ### Problem Statement
 Write code to show the current date and time HTML and javascript.
 
