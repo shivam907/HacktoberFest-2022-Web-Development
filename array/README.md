@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Array in HTML and javascript
-<br>
 ### Problem Statement
 Write code to map an array in HTML and javascript.
 
