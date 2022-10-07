@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## Sidebar in HTML and sidebar
-<br>
 ### Problem Statement
 Write code to show sidebar in HTML and javascript.
 
