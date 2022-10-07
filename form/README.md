@@ -1,6 +1,5 @@
 # Hacktoberfest 2022
 ## From in HTML and javascript
-<br>
 ### Problem Statement
 Write code to make form in HTML and javascript.
 
